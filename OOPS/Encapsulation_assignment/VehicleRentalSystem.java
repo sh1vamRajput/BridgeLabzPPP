@@ -1,4 +1,5 @@
 package OOPS.Encapsulation_assignment;
+
 abstract class Vehicle2 {
     private String vehicleNumber;
     private String type;
